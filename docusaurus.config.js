@@ -8,7 +8,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'MeowMeet Documentation',
   tagline: 'Enhancing Jitsi Meet With Secure Login And Admin Control',
-  url: 'https://meowtechopensource.github.io/MeowJitsiTokenDocs',
+  url: 'https://MeowMeet-Jitsi-Companion.github.io/',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
