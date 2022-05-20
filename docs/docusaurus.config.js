@@ -7,17 +7,17 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'MeowMeet Documentation',
-  tagline: 'Powered By MeowMeet',
+  tagline: 'Enhancing Jitsi Meet With Secure Login And Admin Control',
   url: 'https://your-docusaurus-test-site.com',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
-  favicon: 'img/favicon.ico',
+  favicon: 'img/mas.png',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'MeowTechOpenSource', // Usually your GitHub org/user name.
-  projectName: 'meowmeet', // Usually your repo name.
+  projectName: 'MeowJitsiTokenDocs', // Usually your repo name.
 
   // Even if you don't use internalization, you can use this field to set useful
   // metadata like html lang. For example, if your site is Chinese, you may want
@@ -60,7 +60,7 @@ const config = {
         title: 'MeowMeet',
         logo: {
           alt: 'Meow Meet',
-          src: 'img/logo.svg',
+          src: 'img/mas.png',
         },
         items: [
           {
@@ -78,7 +78,7 @@ const config = {
             title: 'Docs',
             items: [
               {
-                label: 'Tutorial',
+                label: 'About MeowMeet',
                 to: '/docs/intro',
               },
             ],
